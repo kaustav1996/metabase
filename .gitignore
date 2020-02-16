@@ -54,7 +54,6 @@
 /screenshots
 /sqlite.db
 /stats.json
-/target
 /test-report-*
 OSX/Metabase/jre
 OSX/Resources/metabase.jar
@@ -67,6 +66,5 @@ coverage-summary.json
 pom.xml
 pom.xml.asc
 profiles.clj
-target/checksum.txt
 xcshareddata
 xcuserdata
